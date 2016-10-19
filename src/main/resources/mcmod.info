@@ -1,0 +1,16 @@
+[
+{
+  "modid": "playerstats",
+  "name": "Advanced Player Statistics",
+  "description": "A mod that revolves around the player, keeping track of what they do, and letting them do it better!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Falken224","Teduce"],
+  "credits": "The Forge and FML guys, for making a sweet framework, Teduce for the idea, and Falken for the technical support.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
